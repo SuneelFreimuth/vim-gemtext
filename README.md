@@ -5,7 +5,7 @@ Vim syntax highlighting support for Gemtext, the Gemini protocol's markup langua
 
 With vim-plug:
 ```vim
-Plug "SuneelFreimuth/vim-gemtext"
+Plug 'SuneelFreimuth/vim-gemtext'
 ```
 With Pathogen:
 ```shell
@@ -13,6 +13,6 @@ cd ~/.vim/bundle
 git clone https://github.com/SuneelFreimuth/vim-gemtext.git
 ```
 With Vundle:
-```
+```vim
 Plugin 'SuneelFreimuth/vim-gemtext'
 ```
