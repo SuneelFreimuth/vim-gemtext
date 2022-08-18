@@ -1,4 +1,7 @@
 # vim-gemtext
+
+NOTE: This plugin has been added to Vim! https://github.com/vim/vim/issues/8427.
+
 Vim syntax highlighting support for Gemtext, the Gemini protocol's markup language.
 
 ## Install
